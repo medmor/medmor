@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @medmor
 - 👀 I’m interested in game and web developpement
-- 🌱 I’m currently learning game developpement with unity (C#) and typescirpt (angular)
+- 🌱 I’m currently learning game and web developpement using (C#)
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: elmadioune@gmail.com
 
