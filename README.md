@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @medmor
-- 👀 I’m interested in game and web developpement
-- 🌱 I’m currently learning game and web developpement using (C#)
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me: elmadioune@gmail.com
+- Hi,
+- Coding for fun
+- I write code on Monday, than I spend the rest of the week debugging Monday’s code.
 
 <!---
 medmor/medmor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
